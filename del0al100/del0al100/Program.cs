@@ -16,7 +16,7 @@ namespace del0al100
                 i += 9;
             }
             
-            
+            Console.ReadKey();
         }
     }
 }
