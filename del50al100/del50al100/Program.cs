@@ -34,6 +34,8 @@ namespace del50al100
                     Console.WriteLine();  
                 }
             }
+            
+            Console.ReadKey();
               
         }
     }
