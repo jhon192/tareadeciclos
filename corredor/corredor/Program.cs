@@ -11,6 +11,8 @@ namespace corredor
             {
                 Console.WriteLine(i);
             }
+            
+            Console.ReadKey();
         }
     }
 }
