@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Diagnostics;
 
 namespace contadordedigtos
 {
@@ -17,5 +16,7 @@ namespace contadordedigtos
             var diginum = digito.Length;
             Console.WriteLine(string.Concat("Este numero tiene: ", diginum, " Digitos"));
         }
+        
+        Console.ReadKey();
     }
 }
