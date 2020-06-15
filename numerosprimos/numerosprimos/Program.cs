@@ -22,6 +22,8 @@ namespace numerosprimos
             {
                 Console.WriteLine("Este numero no es primo");
             }
+            
+            Console.ReadKey();
 
         }
     }
