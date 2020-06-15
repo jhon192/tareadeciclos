@@ -1,0 +1,11 @@
+C:\Users\jjjho\RiderProjects\del50al100\del50al100\bin\Debug\netcoreapp2.1\del50al100.deps.json
+C:\Users\jjjho\RiderProjects\del50al100\del50al100\bin\Debug\netcoreapp2.1\del50al100.runtimeconfig.json
+C:\Users\jjjho\RiderProjects\del50al100\del50al100\bin\Debug\netcoreapp2.1\del50al100.runtimeconfig.dev.json
+C:\Users\jjjho\RiderProjects\del50al100\del50al100\bin\Debug\netcoreapp2.1\del50al100.dll
+C:\Users\jjjho\RiderProjects\del50al100\del50al100\bin\Debug\netcoreapp2.1\del50al100.pdb
+C:\Users\jjjho\RiderProjects\del50al100\del50al100\obj\Debug\netcoreapp2.1\del50al100.csprojAssemblyReference.cache
+C:\Users\jjjho\RiderProjects\del50al100\del50al100\obj\Debug\netcoreapp2.1\del50al100.csproj.CoreCompileInputs.cache
+C:\Users\jjjho\RiderProjects\del50al100\del50al100\obj\Debug\netcoreapp2.1\del50al100.AssemblyInfoInputs.cache
+C:\Users\jjjho\RiderProjects\del50al100\del50al100\obj\Debug\netcoreapp2.1\del50al100.AssemblyInfo.cs
+C:\Users\jjjho\RiderProjects\del50al100\del50al100\obj\Debug\netcoreapp2.1\del50al100.dll
+C:\Users\jjjho\RiderProjects\del50al100\del50al100\obj\Debug\netcoreapp2.1\del50al100.pdb

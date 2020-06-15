@@ -1,0 +1,6 @@
+C:\Users\jjjho\RiderProjects\numerosprimos\numerosprimos\bin\Debug\numerosprimos.exe
+C:\Users\jjjho\RiderProjects\numerosprimos\numerosprimos\bin\Debug\numerosprimos.pdb
+C:\Users\jjjho\RiderProjects\numerosprimos\numerosprimos\obj\Debug\numerosprimos.csprojAssemblyReference.cache
+C:\Users\jjjho\RiderProjects\numerosprimos\numerosprimos\obj\Debug\numerosprimos.csproj.CoreCompileInputs.cache
+C:\Users\jjjho\RiderProjects\numerosprimos\numerosprimos\obj\Debug\numerosprimos.exe
+C:\Users\jjjho\RiderProjects\numerosprimos\numerosprimos\obj\Debug\numerosprimos.pdb

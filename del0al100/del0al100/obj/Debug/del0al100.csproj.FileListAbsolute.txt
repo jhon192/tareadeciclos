@@ -1,0 +1,6 @@
+C:\Users\jjjho\RiderProjects\del0al100\del0al100\bin\Debug\del0al100.exe
+C:\Users\jjjho\RiderProjects\del0al100\del0al100\bin\Debug\del0al100.pdb
+C:\Users\jjjho\RiderProjects\del0al100\del0al100\obj\Debug\del0al100.csprojAssemblyReference.cache
+C:\Users\jjjho\RiderProjects\del0al100\del0al100\obj\Debug\del0al100.csproj.CoreCompileInputs.cache
+C:\Users\jjjho\RiderProjects\del0al100\del0al100\obj\Debug\del0al100.exe
+C:\Users\jjjho\RiderProjects\del0al100\del0al100\obj\Debug\del0al100.pdb

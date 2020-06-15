@@ -1,0 +1,6 @@
+C:\Users\jjjho\RiderProjects\progr\progr\bin\Debug\progr.exe
+C:\Users\jjjho\RiderProjects\progr\progr\bin\Debug\progr.pdb
+C:\Users\jjjho\RiderProjects\progr\progr\obj\Debug\progr.csprojAssemblyReference.cache
+C:\Users\jjjho\RiderProjects\progr\progr\obj\Debug\progr.csproj.CoreCompileInputs.cache
+C:\Users\jjjho\RiderProjects\progr\progr\obj\Debug\progr.exe
+C:\Users\jjjho\RiderProjects\progr\progr\obj\Debug\progr.pdb

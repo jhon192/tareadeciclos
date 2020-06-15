@@ -1,0 +1,6 @@
+C:\Users\jjjho\RiderProjects\contadordedigtos\contadordedigtos\bin\Debug\contadordedigtos.exe
+C:\Users\jjjho\RiderProjects\contadordedigtos\contadordedigtos\bin\Debug\contadordedigtos.pdb
+C:\Users\jjjho\RiderProjects\contadordedigtos\contadordedigtos\obj\Debug\contadordedigtos.csprojAssemblyReference.cache
+C:\Users\jjjho\RiderProjects\contadordedigtos\contadordedigtos\obj\Debug\contadordedigtos.csproj.CoreCompileInputs.cache
+C:\Users\jjjho\RiderProjects\contadordedigtos\contadordedigtos\obj\Debug\contadordedigtos.exe
+C:\Users\jjjho\RiderProjects\contadordedigtos\contadordedigtos\obj\Debug\contadordedigtos.pdb

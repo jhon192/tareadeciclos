@@ -1,0 +1,6 @@
+C:\Users\jjjho\RiderProjects\corredor\corredor\bin\Debug\corredor.exe
+C:\Users\jjjho\RiderProjects\corredor\corredor\bin\Debug\corredor.pdb
+C:\Users\jjjho\RiderProjects\corredor\corredor\obj\Debug\corredor.csprojAssemblyReference.cache
+C:\Users\jjjho\RiderProjects\corredor\corredor\obj\Debug\corredor.csproj.CoreCompileInputs.cache
+C:\Users\jjjho\RiderProjects\corredor\corredor\obj\Debug\corredor.exe
+C:\Users\jjjho\RiderProjects\corredor\corredor\obj\Debug\corredor.pdb
