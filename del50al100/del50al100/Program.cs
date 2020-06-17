@@ -12,7 +12,7 @@ namespace del50al100
             
             Console.WriteLine("._NUMERO RANDOM DEL 50 AL 100_.");
             var ran = new Random();
-            for (int rand = 0; rand <= 4; rand++)
+            for (int rand = 0; rand <= 0; rand++)
             {
                 Console.Write(ran.Next(50, 101));
                 Console.WriteLine();  
@@ -28,7 +28,7 @@ namespace del50al100
 
             else
             {
-                for (int rand = 0; rand <= 4; rand++)
+                for (int rand = 0; rand <= 0; rand++)
                 {
                     Console.Write(ran.Next(50, 101));
                     Console.WriteLine();  
