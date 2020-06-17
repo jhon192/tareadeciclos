@@ -9,10 +9,12 @@ namespace progr
             /*Crear una aplicacion que muestre la tabla de multiplicar del (7), tips usar ciclo while*/
 
             int numero = 0;
-            while (numero<=84)
+            int numero2 = 0;
+            while (numero<=84 && numero2<=12)
             {
-                Console.WriteLine("Esto es un numero de la tabla del 7:  " + numero);
+                Console.WriteLine("7x{0} = {1}", numero2, numero);
                 numero += 7;
+                numero2 += 1;
             }
 
             Console.ReadKey();
